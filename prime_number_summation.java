@@ -1,4 +1,4 @@
-public class practice{
+public class prime_number_summation{
 
     public static void main(String[] args) {
 
